@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q13185\Q13185\bin\Debug\Q13185.exe
+C:\Users\User\Desktop\Q13185\Q13185\bin\Debug\Q13185.pdb
+C:\Users\User\Desktop\Q13185\Q13185\bin\Debug\Q13185.xml
+C:\Users\User\Desktop\Q13185\Q13185\obj\x86\Debug\Q13185.Form1.resources
+C:\Users\User\Desktop\Q13185\Q13185\obj\x86\Debug\Q13185.Resources.resources
+C:\Users\User\Desktop\Q13185\Q13185\obj\x86\Debug\Q13185.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q13185\Q13185\obj\x86\Debug\Q13185.exe
+C:\Users\User\Desktop\Q13185\Q13185\obj\x86\Debug\Q13185.xml
+C:\Users\User\Desktop\Q13185\Q13185\obj\x86\Debug\Q13185.pdb
