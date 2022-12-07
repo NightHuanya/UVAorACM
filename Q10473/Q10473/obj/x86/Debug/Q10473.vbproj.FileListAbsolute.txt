@@ -1,0 +1,9 @@
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\bin\Debug\Q10473.exe
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\bin\Debug\Q10473.pdb
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\bin\Debug\Q10473.xml
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\obj\x86\Debug\Q10473.Form1.resources
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\obj\x86\Debug\Q10473.Resources.resources
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\obj\x86\Debug\Q10473.vbproj.GenerateResource.Cache
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\obj\x86\Debug\Q10473.exe
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\obj\x86\Debug\Q10473.xml
+c:\users\yuda\documents\visual studio 2010\Projects\Q10473\Q10473\obj\x86\Debug\Q10473.pdb
