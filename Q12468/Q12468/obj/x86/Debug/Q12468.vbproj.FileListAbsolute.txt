@@ -1,0 +1,9 @@
+C:\Users\Huanya\Desktop\Q12468\Q12468\bin\Debug\Q12468.exe
+C:\Users\Huanya\Desktop\Q12468\Q12468\bin\Debug\Q12468.pdb
+C:\Users\Huanya\Desktop\Q12468\Q12468\bin\Debug\Q12468.xml
+C:\Users\Huanya\Desktop\Q12468\Q12468\obj\x86\Debug\Q12468.Form1.resources
+C:\Users\Huanya\Desktop\Q12468\Q12468\obj\x86\Debug\Q12468.Resources.resources
+C:\Users\Huanya\Desktop\Q12468\Q12468\obj\x86\Debug\Q12468.vbproj.GenerateResource.Cache
+C:\Users\Huanya\Desktop\Q12468\Q12468\obj\x86\Debug\Q12468.exe
+C:\Users\Huanya\Desktop\Q12468\Q12468\obj\x86\Debug\Q12468.xml
+C:\Users\Huanya\Desktop\Q12468\Q12468\obj\x86\Debug\Q12468.pdb
