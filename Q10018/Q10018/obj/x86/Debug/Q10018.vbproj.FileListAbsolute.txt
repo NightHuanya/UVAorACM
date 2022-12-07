@@ -1,0 +1,9 @@
+C:\Users\yuda\Desktop\Q10018\Q10018\bin\Debug\Q10018.exe
+C:\Users\yuda\Desktop\Q10018\Q10018\bin\Debug\Q10018.pdb
+C:\Users\yuda\Desktop\Q10018\Q10018\bin\Debug\Q10018.xml
+C:\Users\yuda\Desktop\Q10018\Q10018\obj\x86\Debug\Q10018.Form1.resources
+C:\Users\yuda\Desktop\Q10018\Q10018\obj\x86\Debug\Q10018.Resources.resources
+C:\Users\yuda\Desktop\Q10018\Q10018\obj\x86\Debug\Q10018.vbproj.GenerateResource.Cache
+C:\Users\yuda\Desktop\Q10018\Q10018\obj\x86\Debug\Q10018.exe
+C:\Users\yuda\Desktop\Q10018\Q10018\obj\x86\Debug\Q10018.xml
+C:\Users\yuda\Desktop\Q10018\Q10018\obj\x86\Debug\Q10018.pdb
