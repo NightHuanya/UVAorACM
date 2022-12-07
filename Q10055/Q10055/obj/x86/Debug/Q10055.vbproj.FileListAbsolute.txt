@@ -1,0 +1,9 @@
+C:\Users\YUDA\Desktop\Q10055\Q10055\bin\Debug\Q10055.exe
+C:\Users\YUDA\Desktop\Q10055\Q10055\bin\Debug\Q10055.pdb
+C:\Users\YUDA\Desktop\Q10055\Q10055\bin\Debug\Q10055.xml
+C:\Users\YUDA\Desktop\Q10055\Q10055\obj\x86\Debug\Q10055.Form1.resources
+C:\Users\YUDA\Desktop\Q10055\Q10055\obj\x86\Debug\Q10055.Resources.resources
+C:\Users\YUDA\Desktop\Q10055\Q10055\obj\x86\Debug\Q10055.vbproj.GenerateResource.Cache
+C:\Users\YUDA\Desktop\Q10055\Q10055\obj\x86\Debug\Q10055.exe
+C:\Users\YUDA\Desktop\Q10055\Q10055\obj\x86\Debug\Q10055.xml
+C:\Users\YUDA\Desktop\Q10055\Q10055\obj\x86\Debug\Q10055.pdb

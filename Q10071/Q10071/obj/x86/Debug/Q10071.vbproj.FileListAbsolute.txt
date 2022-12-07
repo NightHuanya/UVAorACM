@@ -1,0 +1,9 @@
+C:\Users\YUDA\Desktop\Q10071\Q10071\bin\Debug\Q10071.exe
+C:\Users\YUDA\Desktop\Q10071\Q10071\bin\Debug\Q10071.pdb
+C:\Users\YUDA\Desktop\Q10071\Q10071\bin\Debug\Q10071.xml
+C:\Users\YUDA\Desktop\Q10071\Q10071\obj\x86\Debug\Q10071.Form1.resources
+C:\Users\YUDA\Desktop\Q10071\Q10071\obj\x86\Debug\Q10071.Resources.resources
+C:\Users\YUDA\Desktop\Q10071\Q10071\obj\x86\Debug\Q10071.vbproj.GenerateResource.Cache
+C:\Users\YUDA\Desktop\Q10071\Q10071\obj\x86\Debug\Q10071.exe
+C:\Users\YUDA\Desktop\Q10071\Q10071\obj\x86\Debug\Q10071.xml
+C:\Users\YUDA\Desktop\Q10071\Q10071\obj\x86\Debug\Q10071.pdb
