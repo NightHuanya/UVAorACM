@@ -1,0 +1,9 @@
+C:\Users\yuda\Desktop\Q713\Q713\bin\Debug\Q713.exe
+C:\Users\yuda\Desktop\Q713\Q713\bin\Debug\Q713.pdb
+C:\Users\yuda\Desktop\Q713\Q713\bin\Debug\Q713.xml
+C:\Users\yuda\Desktop\Q713\Q713\obj\x86\Debug\Q713.Form1.resources
+C:\Users\yuda\Desktop\Q713\Q713\obj\x86\Debug\Q713.Resources.resources
+C:\Users\yuda\Desktop\Q713\Q713\obj\x86\Debug\Q713.vbproj.GenerateResource.Cache
+C:\Users\yuda\Desktop\Q713\Q713\obj\x86\Debug\Q713.exe
+C:\Users\yuda\Desktop\Q713\Q713\obj\x86\Debug\Q713.xml
+C:\Users\yuda\Desktop\Q713\Q713\obj\x86\Debug\Q713.pdb

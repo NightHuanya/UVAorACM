@@ -1,0 +1,9 @@
+C:\Users\yuda\Desktop\Q445\Q445\bin\Debug\Q445.exe
+C:\Users\yuda\Desktop\Q445\Q445\bin\Debug\Q445.pdb
+C:\Users\yuda\Desktop\Q445\Q445\bin\Debug\Q445.xml
+C:\Users\yuda\Desktop\Q445\Q445\obj\x86\Debug\Q445.Form1.resources
+C:\Users\yuda\Desktop\Q445\Q445\obj\x86\Debug\Q445.Resources.resources
+C:\Users\yuda\Desktop\Q445\Q445\obj\x86\Debug\Q445.vbproj.GenerateResource.Cache
+C:\Users\yuda\Desktop\Q445\Q445\obj\x86\Debug\Q445.exe
+C:\Users\yuda\Desktop\Q445\Q445\obj\x86\Debug\Q445.xml
+C:\Users\yuda\Desktop\Q445\Q445\obj\x86\Debug\Q445.pdb
