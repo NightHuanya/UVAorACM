@@ -1,0 +1,12 @@
+C:\Users\YUDA\Desktop\Q10783\Q10783\bin\Debug\Q10783.exe
+C:\Users\YUDA\Desktop\Q10783\Q10783\bin\Debug\Q10783.pdb
+C:\Users\YUDA\Desktop\Q10783\Q10783\bin\Debug\Q10783.xml
+C:\Users\YUDA\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.Form1.resources
+C:\Users\YUDA\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.Resources.resources
+C:\Users\YUDA\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.vbproj.GenerateResource.Cache
+C:\Users\YUDA\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.exe
+C:\Users\YUDA\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.xml
+C:\Users\YUDA\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.pdb
+C:\Users\Huanya\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.exe
+C:\Users\Huanya\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.xml
+C:\Users\Huanya\Desktop\Q10783\Q10783\obj\x86\Debug\Q10783.pdb
