@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q12459\Q12459\bin\Debug\Q12459.exe
+C:\Users\User\Desktop\Q12459\Q12459\bin\Debug\Q12459.pdb
+C:\Users\User\Desktop\Q12459\Q12459\bin\Debug\Q12459.xml
+C:\Users\User\Desktop\Q12459\Q12459\obj\x86\Debug\Q12459.Form1.resources
+C:\Users\User\Desktop\Q12459\Q12459\obj\x86\Debug\Q12459.Resources.resources
+C:\Users\User\Desktop\Q12459\Q12459\obj\x86\Debug\Q12459.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q12459\Q12459\obj\x86\Debug\Q12459.exe
+C:\Users\User\Desktop\Q12459\Q12459\obj\x86\Debug\Q12459.xml
+C:\Users\User\Desktop\Q12459\Q12459\obj\x86\Debug\Q12459.pdb

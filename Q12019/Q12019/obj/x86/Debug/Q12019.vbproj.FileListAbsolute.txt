@@ -1,0 +1,9 @@
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\bin\Debug\Q12019.exe
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\bin\Debug\Q12019.pdb
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\bin\Debug\Q12019.xml
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\obj\x86\Debug\Q12019.Form1.resources
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\obj\x86\Debug\Q12019.Resources.resources
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\obj\x86\Debug\Q12019.vbproj.GenerateResource.Cache
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\obj\x86\Debug\Q12019.exe
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\obj\x86\Debug\Q12019.xml
+c:\users\yuda\documents\visual studio 2010\Projects\Q12019\Q12019\obj\x86\Debug\Q12019.pdb

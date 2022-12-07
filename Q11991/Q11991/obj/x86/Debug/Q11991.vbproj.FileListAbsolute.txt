@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q11991\Q11991\bin\Debug\Q11991.exe
+C:\Users\User\Desktop\Q11991\Q11991\bin\Debug\Q11991.pdb
+C:\Users\User\Desktop\Q11991\Q11991\bin\Debug\Q11991.xml
+C:\Users\User\Desktop\Q11991\Q11991\obj\x86\Debug\Q11991.Form1.resources
+C:\Users\User\Desktop\Q11991\Q11991\obj\x86\Debug\Q11991.Resources.resources
+C:\Users\User\Desktop\Q11991\Q11991\obj\x86\Debug\Q11991.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q11991\Q11991\obj\x86\Debug\Q11991.exe
+C:\Users\User\Desktop\Q11991\Q11991\obj\x86\Debug\Q11991.xml
+C:\Users\User\Desktop\Q11991\Q11991\obj\x86\Debug\Q11991.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Q11991", "Q11991\Q11991.vbproj", "{09AA94F7-4165-4774-9BA7-85DF26642A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AA94F7-4165-4774-9BA7-85DF26642A2F}.Debug|x86.ActiveCfg = Debug|x86
+		{09AA94F7-4165-4774-9BA7-85DF26642A2F}.Debug|x86.Build.0 = Debug|x86
+		{09AA94F7-4165-4774-9BA7-85DF26642A2F}.Release|x86.ActiveCfg = Release|x86
+		{09AA94F7-4165-4774-9BA7-85DF26642A2F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
