@@ -1,0 +1,12 @@
+C:\Users\Huanya\Desktop\Q10340\Q10340\bin\Debug\Q10340.exe
+C:\Users\Huanya\Desktop\Q10340\Q10340\bin\Debug\Q10340.pdb
+C:\Users\Huanya\Desktop\Q10340\Q10340\bin\Debug\Q10340.xml
+C:\Users\Huanya\Desktop\Q10340\Q10340\obj\x86\Debug\Q10340.Form1.resources
+C:\Users\Huanya\Desktop\Q10340\Q10340\obj\x86\Debug\Q10340.Resources.resources
+C:\Users\Huanya\Desktop\Q10340\Q10340\obj\x86\Debug\Q10340.vbproj.GenerateResource.Cache
+C:\Users\Huanya\Desktop\Q10340\Q10340\obj\x86\Debug\Q10340.exe
+C:\Users\Huanya\Desktop\Q10340\Q10340\obj\x86\Debug\Q10340.xml
+C:\Users\Huanya\Desktop\Q10340\Q10340\obj\x86\Debug\Q10340.pdb
+E:\22101\Q10340\Q10340\obj\x86\Debug\Q10340.exe
+E:\22101\Q10340\Q10340\obj\x86\Debug\Q10340.xml
+E:\22101\Q10340\Q10340\obj\x86\Debug\Q10340.pdb
