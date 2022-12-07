@@ -1,0 +1,9 @@
+C:\Users\Huanya\Desktop\Q11687\Q11687\bin\Debug\Q11687.exe
+C:\Users\Huanya\Desktop\Q11687\Q11687\bin\Debug\Q11687.pdb
+C:\Users\Huanya\Desktop\Q11687\Q11687\bin\Debug\Q11687.xml
+C:\Users\Huanya\Desktop\Q11687\Q11687\obj\x86\Debug\Q11687.Form1.resources
+C:\Users\Huanya\Desktop\Q11687\Q11687\obj\x86\Debug\Q11687.Resources.resources
+C:\Users\Huanya\Desktop\Q11687\Q11687\obj\x86\Debug\Q11687.vbproj.GenerateResource.Cache
+C:\Users\Huanya\Desktop\Q11687\Q11687\obj\x86\Debug\Q11687.exe
+C:\Users\Huanya\Desktop\Q11687\Q11687\obj\x86\Debug\Q11687.xml
+C:\Users\Huanya\Desktop\Q11687\Q11687\obj\x86\Debug\Q11687.pdb

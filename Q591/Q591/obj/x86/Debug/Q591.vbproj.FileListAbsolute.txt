@@ -1,0 +1,9 @@
+C:\Users\Huanya\Desktop\Q591\Q591\bin\Debug\Q591.exe
+C:\Users\Huanya\Desktop\Q591\Q591\bin\Debug\Q591.pdb
+C:\Users\Huanya\Desktop\Q591\Q591\bin\Debug\Q591.xml
+C:\Users\Huanya\Desktop\Q591\Q591\obj\x86\Debug\Q591.Form1.resources
+C:\Users\Huanya\Desktop\Q591\Q591\obj\x86\Debug\Q591.Resources.resources
+C:\Users\Huanya\Desktop\Q591\Q591\obj\x86\Debug\Q591.vbproj.GenerateResource.Cache
+C:\Users\Huanya\Desktop\Q591\Q591\obj\x86\Debug\Q591.exe
+C:\Users\Huanya\Desktop\Q591\Q591\obj\x86\Debug\Q591.xml
+C:\Users\Huanya\Desktop\Q591\Q591\obj\x86\Debug\Q591.pdb
