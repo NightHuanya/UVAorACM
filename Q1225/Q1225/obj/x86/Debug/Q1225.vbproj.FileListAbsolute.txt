@@ -1,0 +1,12 @@
+C:\Users\Huanya\Desktop\Q1225\Q1225\bin\Debug\Q1225.exe
+C:\Users\Huanya\Desktop\Q1225\Q1225\bin\Debug\Q1225.pdb
+C:\Users\Huanya\Desktop\Q1225\Q1225\bin\Debug\Q1225.xml
+C:\Users\Huanya\Desktop\Q1225\Q1225\obj\x86\Debug\Q1225.Form1.resources
+C:\Users\Huanya\Desktop\Q1225\Q1225\obj\x86\Debug\Q1225.Resources.resources
+C:\Users\Huanya\Desktop\Q1225\Q1225\obj\x86\Debug\Q1225.vbproj.GenerateResource.Cache
+C:\Users\Huanya\Desktop\Q1225\Q1225\obj\x86\Debug\Q1225.exe
+C:\Users\Huanya\Desktop\Q1225\Q1225\obj\x86\Debug\Q1225.xml
+C:\Users\Huanya\Desktop\Q1225\Q1225\obj\x86\Debug\Q1225.pdb
+C:\Users\yuda\Desktop\訓練班2017.12.1\Q1225\Q1225\obj\x86\Debug\Q1225.exe
+C:\Users\yuda\Desktop\訓練班2017.12.1\Q1225\Q1225\obj\x86\Debug\Q1225.xml
+C:\Users\yuda\Desktop\訓練班2017.12.1\Q1225\Q1225\obj\x86\Debug\Q1225.pdb
