@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q10127\Q10127\bin\Debug\Q10127.exe
+C:\Users\User\Desktop\Q10127\Q10127\bin\Debug\Q10127.pdb
+C:\Users\User\Desktop\Q10127\Q10127\bin\Debug\Q10127.xml
+C:\Users\User\Desktop\Q10127\Q10127\obj\x86\Debug\Q10127.Form1.resources
+C:\Users\User\Desktop\Q10127\Q10127\obj\x86\Debug\Q10127.Resources.resources
+C:\Users\User\Desktop\Q10127\Q10127\obj\x86\Debug\Q10127.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q10127\Q10127\obj\x86\Debug\Q10127.exe
+C:\Users\User\Desktop\Q10127\Q10127\obj\x86\Debug\Q10127.xml
+C:\Users\User\Desktop\Q10127\Q10127\obj\x86\Debug\Q10127.pdb
