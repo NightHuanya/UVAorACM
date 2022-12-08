@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q406\Q406\bin\Debug\Q406.exe
+C:\Users\User\Desktop\Q406\Q406\bin\Debug\Q406.pdb
+C:\Users\User\Desktop\Q406\Q406\bin\Debug\Q406.xml
+C:\Users\User\Desktop\Q406\Q406\obj\x86\Debug\Q406.Form1.resources
+C:\Users\User\Desktop\Q406\Q406\obj\x86\Debug\Q406.Resources.resources
+C:\Users\User\Desktop\Q406\Q406\obj\x86\Debug\Q406.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q406\Q406\obj\x86\Debug\Q406.exe
+C:\Users\User\Desktop\Q406\Q406\obj\x86\Debug\Q406.xml
+C:\Users\User\Desktop\Q406\Q406\obj\x86\Debug\Q406.pdb

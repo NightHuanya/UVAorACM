@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q424\Q424\bin\Debug\Q424.exe
+C:\Users\User\Desktop\Q424\Q424\bin\Debug\Q424.pdb
+C:\Users\User\Desktop\Q424\Q424\bin\Debug\Q424.xml
+C:\Users\User\Desktop\Q424\Q424\obj\x86\Debug\Q424.Form1.resources
+C:\Users\User\Desktop\Q424\Q424\obj\x86\Debug\Q424.Resources.resources
+C:\Users\User\Desktop\Q424\Q424\obj\x86\Debug\Q424.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q424\Q424\obj\x86\Debug\Q424.exe
+C:\Users\User\Desktop\Q424\Q424\obj\x86\Debug\Q424.xml
+C:\Users\User\Desktop\Q424\Q424\obj\x86\Debug\Q424.pdb
