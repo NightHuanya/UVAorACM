@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\bin\Debug\Q10878.exe
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\bin\Debug\Q10878.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\bin\Debug\Q10878.xml
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\obj\x86\Debug\Q10878.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\obj\x86\Debug\Q10878.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\obj\x86\Debug\Q10878.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\obj\x86\Debug\Q10878.exe
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\obj\x86\Debug\Q10878.xml
+C:\Users\User\AppData\Local\Temporary Projects\Q10878\obj\x86\Debug\Q10878.pdb
+C:\Users\User\Desktop\Q10878\Q10878\obj\x86\Debug\Q10878.exe
+C:\Users\User\Desktop\Q10878\Q10878\obj\x86\Debug\Q10878.xml
+C:\Users\User\Desktop\Q10878\Q10878\obj\x86\Debug\Q10878.pdb
+C:\Users\User\Desktop\Q10878\Q10878\bin\Debug\Q10878.exe
+C:\Users\User\Desktop\Q10878\Q10878\bin\Debug\Q10878.pdb
+C:\Users\User\Desktop\Q10878\Q10878\bin\Debug\Q10878.xml
+C:\Users\User\Desktop\Q10878\Q10878\obj\x86\Debug\Q10878.Form1.resources
+C:\Users\User\Desktop\Q10878\Q10878\obj\x86\Debug\Q10878.Resources.resources
+C:\Users\User\Desktop\Q10878\Q10878\obj\x86\Debug\Q10878.vbproj.GenerateResource.Cache

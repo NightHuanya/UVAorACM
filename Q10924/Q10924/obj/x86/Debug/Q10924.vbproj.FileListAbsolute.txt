@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q10924\Q10924\bin\Debug\Q10924.exe
+C:\Users\User\Desktop\Q10924\Q10924\bin\Debug\Q10924.pdb
+C:\Users\User\Desktop\Q10924\Q10924\bin\Debug\Q10924.xml
+C:\Users\User\Desktop\Q10924\Q10924\obj\x86\Debug\Q10924.Form1.resources
+C:\Users\User\Desktop\Q10924\Q10924\obj\x86\Debug\Q10924.Resources.resources
+C:\Users\User\Desktop\Q10924\Q10924\obj\x86\Debug\Q10924.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q10924\Q10924\obj\x86\Debug\Q10924.exe
+C:\Users\User\Desktop\Q10924\Q10924\obj\x86\Debug\Q10924.xml
+C:\Users\User\Desktop\Q10924\Q10924\obj\x86\Debug\Q10924.pdb
