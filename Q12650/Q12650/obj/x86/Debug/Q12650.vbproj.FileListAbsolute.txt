@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q12650\Q12650\bin\Debug\Q12650.exe
+C:\Users\User\Desktop\Q12650\Q12650\bin\Debug\Q12650.pdb
+C:\Users\User\Desktop\Q12650\Q12650\bin\Debug\Q12650.xml
+C:\Users\User\Desktop\Q12650\Q12650\obj\x86\Debug\Q12650.Form1.resources
+C:\Users\User\Desktop\Q12650\Q12650\obj\x86\Debug\Q12650.Resources.resources
+C:\Users\User\Desktop\Q12650\Q12650\obj\x86\Debug\Q12650.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q12650\Q12650\obj\x86\Debug\Q12650.exe
+C:\Users\User\Desktop\Q12650\Q12650\obj\x86\Debug\Q12650.xml
+C:\Users\User\Desktop\Q12650\Q12650\obj\x86\Debug\Q12650.pdb
