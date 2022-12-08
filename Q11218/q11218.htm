@@ -1,0 +1,67 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=Big5"><title>Q11218 - KTV</title>
+
+</head>
+<body>
+<h1 align="center">Q11218 - KTV</h1>
+
+<span style="color: rgb(90, 90, 90); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
+<p>
+<span style="color: rgb(90, 90, 90); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
+最近有一首三人合唱的歌很流行，你與朋友共九個人一同到KTV歡唱，你們決定一人只能唱一次，也就是將九個人分成三組，一組三人，每人剛好都被分派到一個組別。</span><br style="color: rgb(90, 90, 90); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+<br style="color: rgb(90, 90, 90); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+<span style="color: rgb(90, 90, 90); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
+但是有些人並不喜歡與另一些人搭檔，而有些組合的效果並不好聽，所以我們對所有可能的三人組合打分數，請找出9人最高的分組分數總和。</span>　</p>
+<p style="background-color: rgb(255, 255, 0);" align="left"><span style="background-color: rgb(255, 255, 0);"><b>Input</b></span></p>
+<div class="MsoNormal" style="color: rgb(90, 90, 90); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); font-family: Garamond, serif; font-size: 12pt; line-height: 18px; margin: 0in 0in 10pt; text-align: justify;">
+	<p>
+	<span style="color: rgb(90, 90, 90); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
+	輸入最多有1000組測試資料，每組資料的第一列有一個整數 n (0 &lt; n &lt; 81)表示所有可能的組合總數，接下來有 n 
+	列，每列有四個整數表示一種組合，四個整數分別為a, b, c, s (1 &lt;= a &lt; b &lt; c &lt;= 9, 0 &lt; s &lt; 10000)，表示(a, 
+	b, c)這三人的組合其分數為 s。當 n = 0 表示測試結束。</span></div>
+<p style="background-color: rgb(255, 255, 0);" align="left"><span style="background-color: rgb(255, 255, 0);"><b>Output</b></span></p>
+<p>
+<span style="color: rgb(90, 90, 90); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
+請對每組測試資料輸出其資料編號及最高的分數，若不存在任一組可能的組合則輸出 -1。</span></p>
+<table border="1" cellpadding="5" width="100%">
+<tbody>
+<tr>
+<td bgcolor="#00ff00" width="30%"><b>Sample
+Input</b></td>
+<td bgcolor="#00ff00" width="70%"><b>Sample
+Output</b></td>
+</tr>
+<tr>
+<td width="50%">
+<pre style="color: rgb(90, 90, 90); font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">3
+1 2 3 1
+4 5 6 2
+7 8 9 3
+4
+1 2 3 1
+1 4 5 2
+1 6 7 3
+1 8 9 4
+0</pre>
+</td>
+<td width="50%">
+<pre style="color: rgb(90, 90, 90); font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Case 1: 6
+Case 2: -1
+
+
+
+
+
+</pre>
+<pre style="color: rgb(90, 90, 90); font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<h5 style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">中文翻譯：<a href="http://rubyacm.blogspot.tw/">Ruby兔的ACM園地</a></h5>
+</span>
+</body></html>
