@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q12241\Q12241\bin\Debug\Q12241.exe
+C:\Users\User\Desktop\Q12241\Q12241\bin\Debug\Q12241.pdb
+C:\Users\User\Desktop\Q12241\Q12241\bin\Debug\Q12241.xml
+C:\Users\User\Desktop\Q12241\Q12241\obj\x86\Debug\Q12241.Form1.resources
+C:\Users\User\Desktop\Q12241\Q12241\obj\x86\Debug\Q12241.Resources.resources
+C:\Users\User\Desktop\Q12241\Q12241\obj\x86\Debug\Q12241.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q12241\Q12241\obj\x86\Debug\Q12241.exe
+C:\Users\User\Desktop\Q12241\Q12241\obj\x86\Debug\Q12241.xml
+C:\Users\User\Desktop\Q12241\Q12241\obj\x86\Debug\Q12241.pdb
