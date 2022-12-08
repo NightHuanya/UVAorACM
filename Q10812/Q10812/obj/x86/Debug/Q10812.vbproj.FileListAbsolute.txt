@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q10812\Q10812\bin\Debug\Q10812.exe
+C:\Users\User\Desktop\Q10812\Q10812\bin\Debug\Q10812.pdb
+C:\Users\User\Desktop\Q10812\Q10812\bin\Debug\Q10812.xml
+C:\Users\User\Desktop\Q10812\Q10812\obj\x86\Debug\Q10812.Form1.resources
+C:\Users\User\Desktop\Q10812\Q10812\obj\x86\Debug\Q10812.Resources.resources
+C:\Users\User\Desktop\Q10812\Q10812\obj\x86\Debug\Q10812.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q10812\Q10812\obj\x86\Debug\Q10812.exe
+C:\Users\User\Desktop\Q10812\Q10812\obj\x86\Debug\Q10812.xml
+C:\Users\User\Desktop\Q10812\Q10812\obj\x86\Debug\Q10812.pdb
