@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\bin\Debug\Q11614.exe
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\bin\Debug\Q11614.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\bin\Debug\Q11614.xml
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\obj\x86\Debug\Q11614.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\obj\x86\Debug\Q11614.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\obj\x86\Debug\Q11614.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\obj\x86\Debug\Q11614.exe
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\obj\x86\Debug\Q11614.xml
+C:\Users\User\AppData\Local\Temporary Projects\Q11614\obj\x86\Debug\Q11614.pdb
+C:\Users\User\Desktop\Q11614\Q11614\obj\x86\Debug\Q11614.exe
+C:\Users\User\Desktop\Q11614\Q11614\obj\x86\Debug\Q11614.xml
+C:\Users\User\Desktop\Q11614\Q11614\obj\x86\Debug\Q11614.pdb
+C:\Users\User\Desktop\Q11614\Q11614\bin\Debug\Q11614.exe
+C:\Users\User\Desktop\Q11614\Q11614\bin\Debug\Q11614.pdb
+C:\Users\User\Desktop\Q11614\Q11614\bin\Debug\Q11614.xml
+C:\Users\User\Desktop\Q11614\Q11614\obj\x86\Debug\Q11614.Form1.resources
+C:\Users\User\Desktop\Q11614\Q11614\obj\x86\Debug\Q11614.Resources.resources
+C:\Users\User\Desktop\Q11614\Q11614\obj\x86\Debug\Q11614.vbproj.GenerateResource.Cache
