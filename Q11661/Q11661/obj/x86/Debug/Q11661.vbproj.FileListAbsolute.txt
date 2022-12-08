@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q11661\Q11661\bin\Debug\Q11661.exe
+C:\Users\User\Desktop\Q11661\Q11661\bin\Debug\Q11661.pdb
+C:\Users\User\Desktop\Q11661\Q11661\bin\Debug\Q11661.xml
+C:\Users\User\Desktop\Q11661\Q11661\obj\x86\Debug\Q11661.Form1.resources
+C:\Users\User\Desktop\Q11661\Q11661\obj\x86\Debug\Q11661.Resources.resources
+C:\Users\User\Desktop\Q11661\Q11661\obj\x86\Debug\Q11661.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q11661\Q11661\obj\x86\Debug\Q11661.exe
+C:\Users\User\Desktop\Q11661\Q11661\obj\x86\Debug\Q11661.xml
+C:\Users\User\Desktop\Q11661\Q11661\obj\x86\Debug\Q11661.pdb
