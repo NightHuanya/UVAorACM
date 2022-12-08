@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\bin\Debug\Q12208.exe
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\bin\Debug\Q12208.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\bin\Debug\Q12208.xml
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\obj\x86\Debug\Q12208.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\obj\x86\Debug\Q12208.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\obj\x86\Debug\Q12208.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\obj\x86\Debug\Q12208.exe
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\obj\x86\Debug\Q12208.xml
+C:\Users\User\AppData\Local\Temporary Projects\Q12208\obj\x86\Debug\Q12208.pdb
+C:\Users\User\Desktop\Q12208\Q12208\obj\x86\Debug\Q12208.exe
+C:\Users\User\Desktop\Q12208\Q12208\obj\x86\Debug\Q12208.xml
+C:\Users\User\Desktop\Q12208\Q12208\obj\x86\Debug\Q12208.pdb
+C:\Users\User\Desktop\Q12208\Q12208\bin\Debug\Q12208.exe
+C:\Users\User\Desktop\Q12208\Q12208\bin\Debug\Q12208.pdb
+C:\Users\User\Desktop\Q12208\Q12208\bin\Debug\Q12208.xml
+C:\Users\User\Desktop\Q12208\Q12208\obj\x86\Debug\Q12208.Form1.resources
+C:\Users\User\Desktop\Q12208\Q12208\obj\x86\Debug\Q12208.Resources.resources
+C:\Users\User\Desktop\Q12208\Q12208\obj\x86\Debug\Q12208.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q11728\Q11728\bin\Debug\Q11728.exe
+C:\Users\User\Desktop\Q11728\Q11728\bin\Debug\Q11728.pdb
+C:\Users\User\Desktop\Q11728\Q11728\bin\Debug\Q11728.xml
+C:\Users\User\Desktop\Q11728\Q11728\obj\x86\Debug\Q11728.Form1.resources
+C:\Users\User\Desktop\Q11728\Q11728\obj\x86\Debug\Q11728.Resources.resources
+C:\Users\User\Desktop\Q11728\Q11728\obj\x86\Debug\Q11728.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q11728\Q11728\obj\x86\Debug\Q11728.exe
+C:\Users\User\Desktop\Q11728\Q11728\obj\x86\Debug\Q11728.xml
+C:\Users\User\Desktop\Q11728\Q11728\obj\x86\Debug\Q11728.pdb
