@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q483\Q483\bin\Debug\Q483.exe
+C:\Users\User\Desktop\Q483\Q483\bin\Debug\Q483.pdb
+C:\Users\User\Desktop\Q483\Q483\bin\Debug\Q483.xml
+C:\Users\User\Desktop\Q483\Q483\obj\x86\Debug\Q483.Form1.resources
+C:\Users\User\Desktop\Q483\Q483\obj\x86\Debug\Q483.Resources.resources
+C:\Users\User\Desktop\Q483\Q483\obj\x86\Debug\Q483.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q483\Q483\obj\x86\Debug\Q483.exe
+C:\Users\User\Desktop\Q483\Q483\obj\x86\Debug\Q483.xml
+C:\Users\User\Desktop\Q483\Q483\obj\x86\Debug\Q483.pdb

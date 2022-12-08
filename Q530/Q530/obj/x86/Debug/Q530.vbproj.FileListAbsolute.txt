@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Q530\Q530\bin\Debug\Q530.exe
+C:\Users\User\Desktop\Q530\Q530\bin\Debug\Q530.pdb
+C:\Users\User\Desktop\Q530\Q530\bin\Debug\Q530.xml
+C:\Users\User\Desktop\Q530\Q530\obj\x86\Debug\Q530.Form1.resources
+C:\Users\User\Desktop\Q530\Q530\obj\x86\Debug\Q530.Resources.resources
+C:\Users\User\Desktop\Q530\Q530\obj\x86\Debug\Q530.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Q530\Q530\obj\x86\Debug\Q530.exe
+C:\Users\User\Desktop\Q530\Q530\obj\x86\Debug\Q530.xml
+C:\Users\User\Desktop\Q530\Q530\obj\x86\Debug\Q530.pdb
